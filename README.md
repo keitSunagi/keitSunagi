@@ -16,7 +16,7 @@ Sou analista de testes e desenvolvedor independente. Sou desenvolvedor a pouco m
   ## Habilidades
   - 💻 *C# e .Net Core* - Intermediário/Avançado
   - 🎮 *Unity 3D* - Avançado
-  - 💻 *lazor* - Intermediário (Estudando)
+  - 💻 *Blazor* - Intermediário (Estudando)
   - 💻 *EF Core, JS, Angular, TP Script* - Iniciante (Estudando)
   - 😎 *Blender 3D/Zbrush - Modelagem 3D* - Intermediário
     
