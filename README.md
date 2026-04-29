@@ -1,6 +1,5 @@
 
-<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="100" height="100"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="100" height="100"><img src="https://img.icons8.com/color/512/javascript.png" width="100" height="100"><img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2019/04/BrandBlazor_big_with_border.png" width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="100" height="100"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="100" height="100"><img src="https://img.icons8.com/fluent/512/angularjs.png" width="100" height="100">
-
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="100" height="100"><img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2019/04/BrandBlazor_big_with_border.png" width="100" height="100">
 
 
 
